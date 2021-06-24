@@ -5,6 +5,7 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 int num = 1;
@@ -22,6 +23,6 @@ else
 printf("%d ", num);
 num++;
 }
-printf("\n")
+printf("\n");
 return (0);
 }
