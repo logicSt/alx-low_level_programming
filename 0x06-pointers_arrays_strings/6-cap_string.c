@@ -1,11 +1,11 @@
 #include "holberton.h"
 
 /**
- *
  *cap_string - function
  * @str: Pointer
  * Return: poniter return to function.
  */
+
 char *cap_string(char *str)
 {
 int symb[14] = {' ', '\t', '\n', ',', ';', '.', '!',
