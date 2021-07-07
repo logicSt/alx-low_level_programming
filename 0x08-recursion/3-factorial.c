@@ -13,5 +13,5 @@ return (-1);
 else if (!n)
 return (1);
 fac = factorial(n - 1);
-return (fac * n);
+return (fac *n);
 }
